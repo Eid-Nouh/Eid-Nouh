@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eid Nouh</h1>
 <p align="center">
-  A <strong>Full-Stack Developer</strong> from Egypt 🌍 | Python, JS, React, Django & more
+  A <strong>Full-Stack Developer</strong>  | Python, JS, React, Django & more
 </p>
 
 <h2 align="center">🚀 Languages and Tools</h2>
