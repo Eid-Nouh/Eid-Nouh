@@ -1,44 +1,78 @@
 <h1 align="center">Hi 👋, I'm Eid Nouh</h1>
+
+<h3 align="center">
+🚀 Full-Stack Developer | Django Specialist
+</h3>
+
 <p align="center">
-  A <strong>Full-Stack Developer</strong>  | Python, JS, React, Django & more
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+Backend+Specialist;Python+%7C+JavaScript+Developer;Building+Modern+Web+Applications" />
 </p>
 
-<h2 align="center">🚀 Languages and Tools</h2>
+---
+
+## 👨‍💻 About Me
+
+* 🔭 I’m currently working with **Django & React**
+* 🌱 Learning **Advanced Backend Architecture**
+* 💬 Ask me about **Python, Django, JavaScript**
+* ⚡ I love building **scalable web applications**
+
+---
+
+# 🚀 Tech Stack
+
 <p align="center">
-  <!-- Row 1 -->
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.4)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.4)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://cplusplus.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" style="margin: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.4)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60" style="margin: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.4)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
 
-  <!-- Row 2 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60" style="margin: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.4)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60" style="margin: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.4)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="60" height="60" style="margin: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.4)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="60" height="60" style="margin: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.4)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
+<img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,bootstrap,tailwind,mysql,sqlite,docker,git,github,vscode&perline=7" />
 
-  <!-- Row 3 -->
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60" style="margin: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.4)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="60" height="60" style="margin: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.4)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicon
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=EidNouh&show_icons=true&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EidNouh&layout=compact&theme=tokyonight" height="180"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=EidNouh&theme=tokyonight&border_radius=10"/>
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/EidNouh">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐️ From <b>Eid Nouh</b>
+
+</p>
