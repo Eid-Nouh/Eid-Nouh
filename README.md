@@ -20,7 +20,7 @@ Full-Stack Developer — Django Specialist
 
 ## About Me
 
-I am **Eid Nouh**, a passionate **Full-Stack Developer** specializing in **Django**.  
+I am **Eid Nouh**, a passionate **Full-Stack Developer** specializing in **Django**.
 I enjoy building modern, scalable web applications with clean architecture, optimized backend systems, and interactive frontends.
 
 ---
@@ -28,6 +28,7 @@ I enjoy building modern, scalable web applications with clean architecture, opti
 ## Programming Languages & Tech Stack
 
 <p align="center">
+<!-- Languages Badges -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -39,6 +40,7 @@ I enjoy building modern, scalable web applications with clean architecture, opti
 </p>
 
 <p align="center">
+<!-- Frameworks & Libraries -->
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -50,6 +52,7 @@ I enjoy building modern, scalable web applications with clean architecture, opti
 </p>
 
 <p align="center">
+<!-- Databases -->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -57,6 +60,7 @@ I enjoy building modern, scalable web applications with clean architecture, opti
 </p>
 
 <p align="center">
+<!-- Tools -->
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -71,27 +75,22 @@ I enjoy building modern, scalable web applications with clean architecture, opti
 
 ## Skills & Expertise
 
-* Backend: Django, Flask, Node.js  
-* Frontend: React, Next.js, HTML, CSS, Tailwind, Bootstrap, Sass  
-* Databases: MySQL, SQLite, PostgreSQL, MongoDB  
-* Tools: Git, GitHub, Docker, VSCode, Linux, AWS, Heroku, Postman  
-* Others: REST APIs, GraphQL, Authentication, Clean Architecture, Testing  
+* Backend: Django, Flask, Node.js
+* Frontend: React, Next.js, HTML, CSS, Tailwind, Bootstrap, Sass
+* Databases: MySQL, SQLite, PostgreSQL, MongoDB
+* Tools: Git, GitHub, Docker, VSCode, Linux, AWS, Heroku, Postman
+* Others: REST APIs, GraphQL, Authentication, Clean Architecture, Testing
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=EidNouh&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" height="180"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EidNouh&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" height="180"/>
-</p>
 
----
-
-## GitHub Contribution Radar
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=EidNouh&theme=tokyonight&hide_border=true&border_radius=10&mode=weekly" alt="GitHub Contribution Radar" height="220"/>
 </p>
 
 ---
@@ -99,6 +98,7 @@ I enjoy building modern, scalable web applications with clean architecture, opti
 ## Connect With Me
 
 <p align="center">
+
 <a href="https://github.com/EidNouh">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
@@ -110,10 +110,13 @@ I enjoy building modern, scalable web applications with clean architecture, opti
 <a href="mailto:your-email@example.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 <p align="center">
+
 “Great software is built with passion, architecture, and clean code.”
+
 </p>
 
 <p align="center">
