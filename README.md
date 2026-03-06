@@ -32,7 +32,7 @@ My focus is creating powerful full-stack platforms where **performance, architec
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css&perline=5" height="60"/>
+<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css" />
 
 </p>
 
@@ -42,7 +42,7 @@ My focus is creating powerful full-stack platforms where **performance, architec
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=django,react,tailwind,bootstrap&perline=4" height="60"/>
+<img src="https://skillicons.dev/icons?i=django,react,tailwind,bootstrap" />
 
 </p>
 
@@ -52,7 +52,7 @@ My focus is creating powerful full-stack platforms where **performance, architec
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=2" height="60"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
 </p>
 
@@ -62,7 +62,7 @@ My focus is creating powerful full-stack platforms where **performance, architec
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode&perline=4" height="60"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
 
 </p>
 
