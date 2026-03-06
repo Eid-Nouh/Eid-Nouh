@@ -12,28 +12,63 @@ Full-Stack Developer — Django Specialist
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Django+Developer;Python+Backend+Engineer;Building+Modern+Web+Applications;Clean+Architecture+Enthusiast"/>
 </p>
 
----
-
-# 👨‍💻 About Me
-
-* Full-Stack developer focused on **Django**
-* Building scalable **web applications**
-* Interested in **backend architecture**
-* Passionate about **clean code and system design**
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=EidNouh&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-# 🚀 Languages & Tools
+# About Me
+
+Full-Stack developer specialized in **Django** and modern web technologies.
+
+I enjoy building scalable web applications and designing backend systems that are clean, maintainable, and production-ready.
+
+My focus is creating powerful full-stack platforms where **performance, architecture, and user experience** work together.
+
+---
+
+# Programming Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,tailwind,bootstrap,mysql,sqlite,docker,git,github,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css" />
 
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# Frameworks & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=django,react,tailwind,bootstrap" />
+
+</p>
+
+---
+
+# Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+
+</p>
+
+---
+
+# Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+
+</p>
+
+---
+
+# GitHub Statistics
 
 <p align="center">
 
@@ -45,7 +80,7 @@ Full-Stack Developer — Django Specialist
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
 
@@ -55,7 +90,7 @@ Full-Stack Developer — Django Specialist
 
 ---
 
-# 📈 Contribution Activity
+# Contribution Activity
 
 <p align="center">
 
@@ -65,7 +100,7 @@ Full-Stack Developer — Django Specialist
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Achievements
 
 <p align="center">
 
@@ -75,20 +110,20 @@ Full-Stack Developer — Django Specialist
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/EidNouh">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
