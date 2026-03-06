@@ -31,9 +31,9 @@ My focus is creating powerful full-stack platforms where **performance, architec
 # Programming Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css" />
-
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css&perline=5" />
+</a>
 </p>
 
 ---
@@ -41,9 +41,9 @@ My focus is creating powerful full-stack platforms where **performance, architec
 # Frameworks & Technologies
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=django,react,tailwind,bootstrap" />
-
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=django,react,tailwind,bootstrap&perline=4" />
+</a>
 </p>
 
 ---
@@ -51,9 +51,9 @@ My focus is creating powerful full-stack platforms where **performance, architec
 # Databases
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=2" />
+</a>
 </p>
 
 ---
@@ -61,9 +61,9 @@ My focus is creating powerful full-stack platforms where **performance, architec
 # Development Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
-
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode&perline=4" />
+</a>
 </p>
 
 ---
@@ -132,7 +132,7 @@ My focus is creating powerful full-stack platforms where **performance, architec
 
 <p align="center">
 
-“Great software is built with passion, architecture, and clean code.”
+"Great software is built with passion, architecture, and clean code."
 
 </p>
 
