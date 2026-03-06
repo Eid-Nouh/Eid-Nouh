@@ -9,7 +9,7 @@ Full-Stack Developer — Django Specialist
 </h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Django+Developer;Python+Backend+Engineer;React+Frontend+Developer;Building+Modern+Web+Applications;Clean+Architecture+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Django+Developer;Python+Backend+Engineer;React+Frontend+Developer;Building+Modern+Web+Apps;Clean+Architecture+Enthusiast"/>
 </p>
 
 <p align="center">
@@ -21,9 +21,7 @@ Full-Stack Developer — Django Specialist
 ## About Me
 
 I am **Eid Nouh**, a passionate **Full-Stack Developer** with expertise in **Django**.
-I love building modern, scalable web applications with clean architecture, optimized backend systems, and interactive frontend interfaces.
-
-My focus is creating **production-ready full-stack platforms** where performance, architecture, and user experience work seamlessly together.
+I enjoy building modern, scalable web applications with clean architecture, optimized backend systems, and interactive frontends.
 
 ---
 
@@ -31,7 +29,7 @@ My focus is creating **production-ready full-stack platforms** where performance
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,typescript,ruby,java" />
+<img src="https://skillicons.dev/icons?i=python,js,cpp,java,typescript,ruby,go,php,html,css" />
 
 </p>
 
@@ -41,7 +39,7 @@ My focus is creating **production-ready full-stack platforms** where performance
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=django,react,nextjs,nodejs,express,flask,bootstrap,tailwind,sass" />
+<img src="https://skillicons.dev/icons?i=django,flask,react,nextjs,nodejs,express,bootstrap,tailwind,sass" />
 
 </p>
 
@@ -57,11 +55,11 @@ My focus is creating **production-ready full-stack platforms** where performance
 
 ---
 
-## Development Tools & Platforms
+## Tools & Platforms
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,heroku,aws" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,heroku,aws,postman" />
 
 </p>
 
@@ -69,15 +67,15 @@ My focus is creating **production-ready full-stack platforms** where performance
 
 ## Skills & Expertise
 
-* **Backend:** Django, Flask, Node.js
-* **Frontend:** React, Next.js, HTML, CSS, Tailwind, Bootstrap, Sass
-* **Databases:** MySQL, SQLite, PostgreSQL, MongoDB
-* **Tools:** Git, GitHub, Docker, VSCode, Linux, AWS, Heroku
-* **Other:** REST APIs, GraphQL, Authentication, Clean Architecture, Testing
+* Backend: Django, Flask, Node.js
+* Frontend: React, Next.js, HTML, CSS, Tailwind, Bootstrap, Sass
+* Databases: MySQL, SQLite, PostgreSQL, MongoDB
+* Tools: Git, GitHub, Docker, VSCode, Linux, AWS, Heroku, Postman
+* Others: REST APIs, GraphQL, Authentication, Clean Architecture, Testing
 
 ---
 
-## GitHub Statistics
+## GitHub Stats
 
 <p align="center">
 
@@ -114,8 +112,6 @@ My focus is creating **production-ready full-stack platforms** where performance
 “Great software is built with passion, architecture, and clean code.”
 
 </p>
-
-<!-- FOOTER -->
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
