@@ -9,7 +9,7 @@ Full-Stack Developer — Django Specialist
 </h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Django+Developer;Python+Backend+Engineer;Building+Modern+Web+Applications;Clean+Architecture+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Django+Developer;Python+Backend+Engineer;React+Frontend+Developer;Building+Modern+Web+Applications;Clean+Architecture+Enthusiast"/>
 </p>
 
 <p align="center">
@@ -18,57 +18,66 @@ Full-Stack Developer — Django Specialist
 
 ---
 
-# About Me
+## About Me
 
-Full-Stack developer specialized in **Django** and modern web technologies.
+I am **Eid Nouh**, a passionate **Full-Stack Developer** with expertise in **Django**.
+I love building modern, scalable web applications with clean architecture, optimized backend systems, and interactive frontend interfaces.
 
-I enjoy building scalable web applications and designing backend systems that are clean, maintainable, and production-ready.
-
-My focus is creating powerful full-stack platforms where **performance, architecture, and user experience** work together.
+My focus is creating **production-ready full-stack platforms** where performance, architecture, and user experience work seamlessly together.
 
 ---
 
-# Programming Languages
+## Programming Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,typescript,ruby,java" />
 
 </p>
 
 ---
 
-# Frameworks & Technologies
+## Frameworks & Libraries
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=django,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=django,react,nextjs,nodejs,express,flask,bootstrap,tailwind,sass" />
 
 </p>
 
 ---
 
-# Databases
+## Databases
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb" />
 
 </p>
 
 ---
 
-# Development Tools
+## Development Tools & Platforms
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,heroku,aws" />
 
 </p>
 
 ---
 
-# GitHub Statistics
+## Skills & Expertise
+
+* **Backend:** Django, Flask, Node.js
+* **Frontend:** React, Next.js, HTML, CSS, Tailwind, Bootstrap, Sass
+* **Databases:** MySQL, SQLite, PostgreSQL, MongoDB
+* **Tools:** Git, GitHub, Docker, VSCode, Linux, AWS, Heroku
+* **Other:** REST APIs, GraphQL, Authentication, Clean Architecture, Testing
+
+---
+
+## GitHub Statistics
 
 <p align="center">
 
@@ -80,37 +89,7 @@ My focus is creating powerful full-stack platforms where **performance, architec
 
 ---
 
-# GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=EidNouh&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-</p>
-
----
-
-# Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EidNouh&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=EidNouh&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# Connect With Me
+## Connect With Me
 
 <p align="center">
 
