@@ -1,78 +1,81 @@
-<h1 align="center">Hi 👋, I'm Eid Nouh</h1>
-
-<h3 align="center">
-🚀 Full-Stack Developer | Django Specialist
-</h3>
+<h1 align="center">Eid Nouh</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+Backend+Specialist;Python+%7C+JavaScript+Developer;Building+Modern+Web+Applications" />
+Full-Stack Developer — Django Specialist
+</p>
+
+<p align="center">
+Building scalable web applications with clean architecture and modern technologies.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1200&color=6C8CFF&center=true&vCenter=true&width=600&lines=Full+Stack+Django+Developer;Python+%7C+JavaScript+Engineer;Backend+Architecture+Enthusiast;Building+Modern+Web+Systems"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### About
 
-* 🔭 I’m currently working with **Django & React**
-* 🌱 Learning **Advanced Backend Architecture**
-* 💬 Ask me about **Python, Django, JavaScript**
-* ⚡ I love building **scalable web applications**
+I design and build modern web applications with a focus on backend architecture, performance, and clean code.
+My primary stack revolves around **Django**, where I develop scalable APIs, dynamic web platforms, and full-stack systems.
+
+Currently focused on improving system architecture, scalability, and high-performance backend design.
 
 ---
 
-# 🚀 Tech Stack
+### Stack
+
+Python
+Django
+JavaScript
+React
+HTML
+CSS
+Tailwind
+Bootstrap
+MySQL
+SQLite
+Docker
+Git
+
+---
+
+### GitHub
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,bootstrap,tailwind,mysql,sqlite,docker,git,github,vscode&perline=7" />
+<img src="https://github-readme-stats.vercel.app/api?username=EidNouh&show_icons=true&theme=transparent&hide_border=true&title_color=6C8CFF&text_color=999"/>
 
 </p>
 
----
-
-# 📊 GitHub Stats
-
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EidNouh&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EidNouh&layout=compact&theme=tokyonight" height="180"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=EidNouh&theme=tokyonight&border_radius=10"/>
-
-</p>
-
----
-
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/EidNouh">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EidNouh&layout=compact&theme=transparent&hide_border=true&title_color=6C8CFF&text_color=999"/>
 
 </p>
 
 ---
 
+### Focus
+
+Backend Development
+Full-Stack Web Applications
+Django Architecture
+Scalable Systems
+Clean Code
+
+---
+
+### Contact
+
+GitHub
+LinkedIn
+Email
+
+---
+
 <p align="center">
 
-⭐️ From <b>Eid Nouh</b>
+"Code is not just about solving problems — it's about designing systems."
 
 </p>
