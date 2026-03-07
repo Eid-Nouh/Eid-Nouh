@@ -85,10 +85,10 @@ I enjoy building modern, scalable web applications with clean architecture, opti
 <a href="https://github.com/EidNouh">
 <!-- <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/> -->
 </a>
-<a href="https://www.linkedin.com/">
+<a href="in/eid-nouh-706797366">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="mailto:your-email@example.com">
+<a href="eidnouh55@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://twitter.com/">
