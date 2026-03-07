@@ -71,10 +71,10 @@ I enjoy building modern, scalable web applications with clean architecture, opti
 
 ## Skills & Expertise
 
-* Backend: Django, Flask, Node.js
+* Backend: Django
 * Frontend: React, Next.js, HTML, CSS, Tailwind, Bootstrap, Sass
-* Databases: MySQL, SQLite, PostgreSQL, MongoDB
-* Tools: Git, GitHub, Docker, VSCode, Linux, AWS, Heroku, Postman
+* Databases: MySQL, SQLite, PostgreSQL
+* Tools: Git, GitHub, Docker, VSCode, Linux
 * Others: REST APIs, GraphQL, Authentication, Clean Architecture, Testing
 
 ---
