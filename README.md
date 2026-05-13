@@ -146,20 +146,7 @@ class EidNouh:
 </tr>
 </table>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EidNouh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a0aec0&ring_color=e94560"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EidNouh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a0aec0"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EidNouh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560"/>
-</p>
-
----
 
 ##  Connect With Me
 
