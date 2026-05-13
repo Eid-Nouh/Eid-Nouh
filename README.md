@@ -1,99 +1,159 @@
-<!-- HEADER -->
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Eid%20Nouh&fontSize=60&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:0f3460,100:e94560&text=Eid%20Nouh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20SOC%20Analyst&descSize=18&descAlignY=60&descColor=a0aec0"/>
 </p>
 
-<h2 align="center">
-Full-Stack Django Developer | SOC Analyst (Cybersecurity)
-</h2>
+<br/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Django+Developer;SOC+Analyst+%7C+Cybersecurity+Enthusiast;Building+Secure+%26+Scalable+Web+Applications;Clean+Architecture+%7C+Secure+Systems+Mindset"/>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=EidNouh&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+```
+◆ Role        →  Full Stack Developer (Django)
+◆ Specialty   →  Cybersecurity · SOC Analyst
+◆ Backend     →  Python · Django · REST APIs
+◆ Frontend    →  React · Next.js · TypeScript
+◆ Focus       →  Clean Architecture · Security
+```
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=E94560&center=true&vCenter=true&width=340&lines=Full+Stack+Django+Developer;Cybersecurity+SOC+Analyst;Python+%26+React+Engineer;Clean+Code+Advocate;Security-First+Mindset" />
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ About Me
 
-I am **Eid Nouh**, a passionate **Full-Stack Django Developer** and **SOC Analyst**.
+> I'm **Eid Nouh** — a **Full Stack Developer** specializing in **Django** and a **Cybersecurity SOC Analyst**.
+> I build secure, scalable web applications backed by a strong security mindset.
+> Every line of code I write is designed to be clean, maintainable, and resilient.
 
-I specialize in building **secure, scalable, and high-performance web applications**, combining software engineering principles with cybersecurity awareness.
-
-- 🔐 Focus on Security (SOC mindset, threat awareness, secure coding)
-- 🧠 Backend Development with Django & REST APIs
-- ⚙️ Clean Architecture & System Design
-- 🌐 Modern Frontend with React / Next.js
+```python
+class EidNouh:
+    role       = ["Full Stack Developer", "SOC Analyst"]
+    stack      = {"backend": "Django / Python", "frontend": "React / Next.js"}
+    security   = ["Threat Detection", "Log Analysis", "Incident Response"]
+    philosophy = "Security-first. Clean architecture. Scalable systems."
+```
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Languages
-Python • JavaScript • TypeScript • C++ • Java • HTML • CSS
+<p>
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+</p>
 
-### ⚙️ Backend & Frontend
-Django • Django REST Framework • React • Next.js • TailwindCSS • Bootstrap
+### 🧠 Backend & Frameworks
+<p>
+<img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20"/>
+<img src="https://img.shields.io/badge/DRF-0d1117?style=for-the-badge&logo=django&logoColor=e94560"/>
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+</p>
 
 ### 🗄️ Databases
-PostgreSQL • MySQL • SQLite
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=07405E"/>
+</p>
 
-### 🔐 Cybersecurity / SOC Skills
-Log Analysis • Incident Response Basics • Network Security Concepts • Threat Detection Fundamentals
-
-### 🛠️ Tools
-Git • GitHub • Docker • Linux • VS Code
+### 🔐 Cybersecurity & Tools
+<p>
+<img src="https://img.shields.io/badge/SOC_Analysis-0d1117?style=for-the-badge&logo=shield&logoColor=e94560"/>
+<img src="https://img.shields.io/badge/SIEM-0d1117?style=for-the-badge&logo=splunk&logoColor=FF6600"/>
+<img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
+<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+</p>
 
 ---
 
-## 🚀 What I Do
+## 🎯 Core Expertise
 
-- 🔹 Build full-stack web applications using Django & React  
-- 🔹 Design RESTful APIs with clean architecture  
-- 🔹 Work with authentication, authorization & security layers  
-- 🔹 Analyze system logs & understand security events (SOC mindset)  
-- 🔹 Deploy scalable backend systems  
+<table>
+<tr>
+<td width="50%">
+
+### 🔧 Development
+- ✦ Django REST Framework & GraphQL
+- ✦ React / Next.js (SSR & SSG)
+- ✦ JWT Authentication & OAuth2
+- ✦ Clean Architecture & Design Patterns
+- ✦ CI/CD & Docker Containerization
+- ✦ Database Optimization & Migrations
+
+</td>
+<td width="50%">
+
+### 🛡️ Security (SOC)
+- ✦ Threat Detection & Analysis
+- ✦ Log Monitoring & SIEM Tools
+- ✦ Incident Response & Triage
+- ✦ Network Traffic Analysis
+- ✦ Vulnerability Assessment
+- ✦ Security-First Development
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=EidNouh&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EidNouh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a0aec0&ring_color=e94560"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EidNouh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a0aec0"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EidNouh&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Contact
-
-<p align="center">
-<a href="https://www.linkedin.com/in/eid-nouh-706797366">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:eidnouh55@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/EidNouh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=EidNouh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560"/>
 </p>
 
 ---
 
+## 🤝 Connect With Me
+
 <p align="center">
-⚡ “Secure code is better than fast code that breaks.”
+  <a href="https://linkedin.com/in/eid-nouh-706797366">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
+  </a>
+  <a href="mailto:eidnouh55@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+  </a>
+  <a href="https://github.com/EidNouh">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EidNouh&label=Profile%20Views&color=e94560&style=flat-square"/>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+  <i>"Build secure systems. Write clean code. Leave no vulnerability behind."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:e94560,50:0f3460,100:0d1117&section=footer"/>
 </p>
