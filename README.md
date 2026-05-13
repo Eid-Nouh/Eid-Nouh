@@ -1,18 +1,47 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:0f3460,100:e94560&text=Eid%20Nouh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20SOC%20Analyst&descSize=18&descAlignY=60&descColor=a0aec0"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&customColorList=0,2,4,12,24&text=Eid%20Nouh&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=⚡%20Full%20Stack%20Developer%20·%20🛡️%20SOC%20Analyst&descSize=20&descAlignY=68&descColor=ffffff&stroke=ffffff&strokeWidth=2"/>
+<br/>
 
-</div>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+```
+◆ Role        →  Full Stack Developer (Django)
+◆ Specialty   →  Cybersecurity · SOC Analyst
+◆ Backend     →  Python · Django · REST APIs
+◆ Frontend    →  React · Next.js · TypeScript
+◆ Focus       →  Clean Architecture · Security
+```
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=E94560&center=true&vCenter=true&width=340&lines=Full+Stack+Django+Developer;Cybersecurity+SOC+Analyst;Python+%26+React+Engineer;Clean+Code+Advocate;Security-First+Mindset" />
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-<div align="center">
+## ⚡ About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2500&pause=600&color=FF6B6B&center=true&vCenter=true&multiline=false&width=600&lines=🔥+Django+Backend+Architect;⚡+React+%26+Next.js+Frontend+Dev;🛡️+Cybersecurity+SOC+Analyst;🚀+Building+the+Secure+Web)](https://github.com/EidNouh)
+> I'm **Eid Nouh** — a **Full Stack Developer** specializing in **Django** and a **Cybersecurity SOC Analyst**.
+> I build secure, scalable web applications backed by a strong security mindset.
+> Every line of code I write is designed to be clean, maintainable, and resilient.
 
-</div>
-
-<br/>
+```python
+class EidNouh:
+    role       = ["Full Stack Developer", "SOC Analyst"]
+    stack      = {"backend": "Django / Python", "frontend": "React / Next.js"}
+    security   = ["Threat Detection", "Log Analysis", "Incident Response"]
+    philosophy = "Security-first. Clean architecture. Scalable systems."
+```
 
 ---
 
@@ -20,7 +49,7 @@
 
 <table>
 <tr>
-<td>
+<td width="55%">
 
 ```yaml
 Name       : Eid Nouh
@@ -34,10 +63,9 @@ Mindset    : "Secure by Design. Bold by Nature."
 ```
 
 </td>
-<td align="center">
+<td align="center" width="45%">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="240"/>
-
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260"/>
 
 </td>
 </tr>
@@ -45,133 +73,115 @@ Mindset    : "Secure by Design. Bold by Nature."
 
 ---
 
-## 🎨 Tech Universe
+## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Languages
+<p>
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+</p>
 
-### 🐍 Core Languages
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Frameworks & Libraries
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🧠 Backend & Frameworks
+<p>
+<img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20"/>
+<img src="https://img.shields.io/badge/DRF-0d1117?style=for-the-badge&logo=django&logoColor=e94560"/>
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+</p>
 
 ### 🗄️ Databases
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=07405E"/>
+</p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🔐 Security & DevOps
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=green)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+### 🔐 Cybersecurity & Tools
+<p>
+<img src="https://img.shields.io/badge/SOC_Analysis-0d1117?style=for-the-badge&logo=shield&logoColor=e94560"/>
+<img src="https://img.shields.io/badge/SIEM-0d1117?style=for-the-badge&logo=splunk&logoColor=FF6600"/>
+<img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
+<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+</p>
 
 ---
 
-## 🚀 What I Build & Defend
+## 🎯 Core Expertise
 
-<div align="center">
 <table>
 <tr>
+<td width="50%">
 
-<td align="center" width="33%">
-<br/><b>🔧 Backend Engineering</b><br/><br/>
-<sub>Scalable Django APIs · Auth Systems · Microservices · DB Optimization</sub>
-<br/>
+### 🔧 Development
+- ✦ Django REST Framework & GraphQL
+- ✦ React / Next.js (SSR & SSG)
+- ✦ JWT Authentication & OAuth2
+- ✦ Clean Architecture & Design Patterns
+- ✦ CI/CD & Docker Containerization
+- ✦ Database Optimization & Migrations
+
 </td>
+<td width="50%">
 
-<td align="center" width="33%">
-<br/><b>🎨 Frontend Development</b><br/><br/>
-<sub>React · Next.js · SSR/SSG · Responsive UI · Performance</sub>
-<br/>
+### 🛡️ Security (SOC)
+- ✦ Threat Detection & Analysis
+- ✦ Log Monitoring & SIEM Tools
+- ✦ Incident Response & Triage
+- ✦ Network Traffic Analysis
+- ✦ Vulnerability Assessment
+- ✦ Security-First Development
+
 </td>
-
-<td align="center" width="33%">
-<br/><b>🛡️ SOC Analysis</b><br/><br/>
-<sub>Threat Detection · SIEM · Log Analysis · Incident Response</sub>
-<br/>
-</td>
-
 </tr>
 </table>
-</div>
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EidNouh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a0aec0&ring_color=e94560"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EidNouh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a0aec0"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=EidNouh&show_icons=true&theme=radical&hide_border=false&border_radius=12&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&border_color=FF6B6B" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EidNouh&layout=compact&theme=radical&hide_border=false&border_radius=12&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&border_color=FF6B6B" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EidNouh&theme=radical&hide_border=false&border_radius=12&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&border=FF6B6B"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EidNouh&theme=redical&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=false&border_color=FF6B6B&radius=12"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=EidNouh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🤝 Connect With Me
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=EidNouh&theme=radical&no-frame=false&no-bg=false&margin-w=6&column=7)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eid-nouh-706797366)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eidnouh55@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EidNouh)
+<p align="center">
+  <a href="https://linkedin.com/in/eid-nouh-706797366">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
+  </a>
+  <a href="mailto:eidnouh55@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+  </a>
+  <a href="https://github.com/EidNouh">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
+  </a>
+</p>
 
 <br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=EidNouh&label=Profile%20Views&color=FF6B6B&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EidNouh&label=Profile%20Views&color=e94560&style=flat-square"/>
+</p>
 
-</div>
+<p align="center">
+  <i>"Build secure systems. Write clean code. Leave no vulnerability behind."</i>
+</p>
 
----
-
-<div align="center">
-
-### 💬 My Motto
-
-> *"I don't just write code — I build fortresses."*
-> **— Eid Nouh**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=0,2,4,12,24&section=footer&animation=twinkling"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:e94560,50:0f3460,100:0d1117&section=footer"/>
+</p>
