@@ -29,19 +29,7 @@
 
 ---
 
-## ⚡ About Me
 
-> I'm **Eid Nouh** — a **Full Stack Developer** specializing in **Django** and a **Cybersecurity SOC Analyst**.
-> I build secure, scalable web applications backed by a strong security mindset.
-> Every line of code I write is designed to be clean, maintainable, and resilient.
-
-```python
-class EidNouh:
-    role       = ["Full Stack Developer", "SOC Analyst"]
-    stack      = {"backend": "Django / Python", "frontend": "React / Next.js"}
-    security   = ["Threat Detection", "Log Analysis", "Incident Response"]
-    philosophy = "Security-first. Clean architecture. Scalable systems."
-```
 
 ---
 
@@ -61,6 +49,21 @@ Database   : PostgreSQL · MySQL · SQLite
 DevOps     : Docker · Git · Linux · CI/CD
 Mindset    : "Secure by Design. Bold by Nature."
 ```
+## ⚡ About Me
+
+> I'm **Eid Nouh** — a **Full Stack Developer** specializing in **Django** and a **Cybersecurity SOC Analyst**.
+> I build secure, scalable web applications backed by a strong security mindset.
+> Every line of code I write is designed to be clean, maintainable, and resilient.
+
+```python
+class EidNouh:
+    role       = ["Full Stack Developer", "SOC Analyst"]
+    stack      = {"backend": "Django / Python", "frontend": "React / Next.js"}
+    security   = ["Threat Detection", "Log Analysis", "Incident Response"]
+    philosophy = "Security-first. Clean architecture. Scalable systems."
+```
+
+
 
 </td>
 <td align="center" width="45%">
