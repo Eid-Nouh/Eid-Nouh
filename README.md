@@ -176,15 +176,3 @@ class EidNouh:
 </p>
 
 <br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EidNouh&label=Profile%20Views&color=e94560&style=flat-square"/>
-</p>
-
-<p align="center">
-  <i>"Build secure systems. Write clean code. Leave no vulnerability behind."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:e94560,50:0f3460,100:0d1117&section=footer"/>
-</p>
