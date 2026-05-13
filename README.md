@@ -49,7 +49,7 @@ Database   : PostgreSQL · MySQL · SQLite
 DevOps     : Docker · Git · Linux · CI/CD
 Mindset    : "Secure by Design. Bold by Nature."
 ```
-## ⚡ About Me
+##  About Me
 
 > I'm **Eid Nouh** — a **Full Stack Developer** specializing in **Django** and a **Cybersecurity SOC Analyst**.
 > I build secure, scalable web applications backed by a strong security mindset.
@@ -76,9 +76,9 @@ class EidNouh:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 <p>
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -88,7 +88,7 @@ class EidNouh:
 <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 </p>
 
-### 🧠 Backend & Frameworks
+###  Backend & Frameworks
 <p>
 <img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20"/>
 <img src="https://img.shields.io/badge/DRF-0d1117?style=for-the-badge&logo=django&logoColor=e94560"/>
@@ -98,14 +98,14 @@ class EidNouh:
 <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
 </p>
 
-### 🗄️ Databases
+###  Databases
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791"/>
 <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=07405E"/>
 </p>
 
-### 🔐 Cybersecurity & Tools
+###  Cybersecurity & Tools
 <p>
 <img src="https://img.shields.io/badge/SOC_Analysis-0d1117?style=for-the-badge&logo=shield&logoColor=e94560"/>
 <img src="https://img.shields.io/badge/SIEM-0d1117?style=for-the-badge&logo=splunk&logoColor=FF6600"/>
@@ -117,13 +117,13 @@ class EidNouh:
 
 ---
 
-## 🎯 Core Expertise
+##  Core Expertise
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔧 Development
+###  Development
 - ✦ Django REST Framework & GraphQL
 - ✦ React / Next.js (SSR & SSG)
 - ✦ JWT Authentication & OAuth2
@@ -134,7 +134,7 @@ class EidNouh:
 </td>
 <td width="50%">
 
-### 🛡️ Security (SOC)
+###  Security (SOC)
 - ✦ Threat Detection & Analysis
 - ✦ Log Monitoring & SIEM Tools
 - ✦ Incident Response & Triage
@@ -161,7 +161,7 @@ class EidNouh:
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/eid-nouh-706797366">
@@ -175,4 +175,4 @@ class EidNouh:
   </a>
 </p>
 
-<br/>
+
