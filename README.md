@@ -5,7 +5,7 @@
 <br/>
 
 
-## 🌟 Who Am I?
+##  Who Am I?
 
 <table>
 <tr>
@@ -89,34 +89,6 @@ class EidNouh:
 
 ---
 
-##  Core Expertise
-
-<table>
-<tr>
-<td width="50%">
-
-###  Development
-- ✦ Django REST Framework & GraphQL
-- ✦ React / Next.js (SSR & SSG)
-- ✦ JWT Authentication & OAuth2
-- ✦ Clean Architecture & Design Patterns
-- ✦ CI/CD & Docker Containerization
-- ✦ Database Optimization & Migrations
-
-</td>
-<td width="50%">
-
-###  Security (SOC)
-- ✦ Threat Detection & Analysis
-- ✦ Log Monitoring & SIEM Tools
-- ✦ Incident Response & Triage
-- ✦ Network Traffic Analysis
-- ✦ Vulnerability Assessment
-- ✦ Security-First Development
-
-</td>
-</tr>
-</table>
 
 
 
