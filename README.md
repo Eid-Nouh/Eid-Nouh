@@ -8,13 +8,6 @@
 <tr>
 <td align="center" width="50%">
 
-```
-◆ Role        →  Full Stack Developer (Django)
-◆ Specialty   →  Cybersecurity · SOC Analyst
-◆ Backend     →  Python · Django · REST APIs
-◆ Frontend    →  React · Next.js · TypeScript
-◆ Focus       →  Clean Architecture · Security
-```
 
 </td>
 <td align="center" width="50%">
