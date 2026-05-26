@@ -39,13 +39,6 @@ Mindset    : "Secure by Design. Bold by Nature."
 > I build secure, scalable web applications backed by a strong security mindset.
 > Every line of code I write is designed to be clean, maintainable, and resilient.
 
-```python
-class EidNouh:
-    role       = ["Full Stack Developer", "SOC Analyst"]
-    stack      = {"backend": "Django / Python", "frontend": "React / Next.js"}
-    security   = ["Threat Detection", "Log Analysis", "Incident Response"]
-    philosophy = "Security-first. Clean architecture. Scalable systems."
-```
 
 
 ##  Tech Stack
