@@ -4,34 +4,6 @@
 
 <br/>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=E94560&center=true&vCenter=true&width=340&lines=Full+Stack+Django+Developer;Cybersecurity+SOC+Analyst;Python+%26+React+Engineer;Clean+Code+Advocate;Security-First+Mindset" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-
-```
-◆ Role        →  Full Stack Developer (Django)
-◆ Specialty   →  Cybersecurity · SOC Analyst
-◆ Backend     →  Python · Django · REST APIs
-◆ Frontend    →  React · Next.js · TypeScript
-◆ Focus       →  Clean Architecture · Security
-```
-
----
 
 ## 🌟 Who Am I?
 
